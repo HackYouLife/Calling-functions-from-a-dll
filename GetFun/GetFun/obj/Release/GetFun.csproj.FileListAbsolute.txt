@@ -1,0 +1,9 @@
+D:\GetFunck\getfunck\GetFun\GetFun\bin\Release\GetFun.exe.config
+D:\GetFunck\getfunck\GetFun\GetFun\bin\Release\GetFun.exe
+D:\GetFunck\getfunck\GetFun\GetFun\bin\Release\GetFun.pdb
+D:\GetFunck\getfunck\GetFun\GetFun\obj\Release\GetFun.Properties.Resources.resources
+D:\GetFunck\getfunck\GetFun\GetFun\obj\Release\GetFun.csproj.GenerateResource.Cache
+D:\GetFunck\getfunck\GetFun\GetFun\obj\Release\GetFun.exe
+D:\GetFunck\getfunck\GetFun\GetFun\obj\Release\GetFun.pdb
+D:\GetFunck\getfunck\GetFun\GetFun\obj\Release\GetFun.csprojResolveAssemblyReference.cache
+D:\GetFunck\getfunck\GetFun\GetFun\obj\Release\GetFun.Form1.resources
